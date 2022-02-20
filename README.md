@@ -8,4 +8,9 @@
 4. 运行代码。
 
 
-博客链接：https://blog.csdn.net/qq_39056987/article/details/116483566
+原博客链接：https://blog.csdn.net/qq_39056987/article/details/116483566
+
+我的笔记地址：
+[01 YUV格式解析](https://www.yuque.com/w20180301/wo2u05/pgcm69)
+[02 实例转换](https://www.yuque.com/w20180301/wo2u05/acyq2u)
+
